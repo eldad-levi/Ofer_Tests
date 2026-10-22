@@ -1,0 +1,5 @@
+{
+  "enabled": 0,
+  "version": "0.18",
+  "notes": "OTA checks enabled in firmware. No update is published yet. Use Prepare-OTA.ps1 after exporting an application binary."
+}
