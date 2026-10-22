@@ -1,5 +1,6 @@
 {
-  "enabled": 0,
   "version": "0.18",
-  "notes": "OTA checks enabled in firmware. No update is published yet. Use Prepare-OTA.ps1 after exporting an application binary."
+  "bin_url": "https://raw.githubusercontent.com/eldad-levi/Ofer_Tests/main/ota/OFER6.1_test_v0.18.ino.bin",
+  "size": 522688,
+  "sha256": "6e5b7a7dd8e94069821e10af004ecefa4c11477aa8157c05be265d742b624213"
 }
